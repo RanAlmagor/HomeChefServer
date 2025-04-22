@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RLxNBHNUB6aQ5SYpGWN5gqOzACa1uLnZbWV9YTcIMk0=",
+  "Source": "HomeChefServer",
+  "BasePath": "_content/HomeChefServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
